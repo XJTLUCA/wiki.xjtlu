@@ -1,0 +1,14 @@
+{
+  "email": {
+    "title": "邮箱"
+  },
+  "print": {
+    "title": "打印机"
+  },
+  "vpn": {
+    "title": "VPN"
+  },
+  "wifi": {
+    "title": "WIFI"
+  }
+}

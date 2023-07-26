@@ -11,44 +11,44 @@
       "pagination": false
     }
   },
-  "01-intro": {
+  "intro": {
     "title": "介绍",
-    "href": "intro"
+    "href": "/intro"
   },
-  "02-freshman": {
+  "freshman": {
     "title": "新生指南",
-    "href": "freshman"
+    "href": "/freshman"
   },
-  "03-school-life": {
-    "title": "学校生活",
-    "href": "school-life"
+  "school": {
+    "title": "校园指南",
+    "href": "/school"
   },
-  "04-suzhou": {
+  "suzhou": {
     "title": "苏州生活",
-    "href": "suzhou"
+    "href": "/suzhou"
   },
-  "05-livepool": {
+  "livepool": {
     "title": "利物浦生活",
-    "href": "livepool"
+    "href": "/livepool"
   },
-  "06-academic": {
+  "academic": {
     "title": "学术指南",
-    "href": "academic"
+    "href": "/academic"
   },
-  "07-surivial": {
+  "surivial": {
     "title": "生存指南",
-    "href": "surivial"
+    "href": "/surivial"
   },
-  "08-transfer": {
+  "transfer": {
     "title": "转学指南",
-    "href": "transfer"
+    "href": "/transfer"
   },
-  "09-internship": {
+  "internship": {
     "title": "实习指南",
-    "href": "internship"
+    "href": "/internship"
   },
-  "10-study-abroad": {
+  "study-abroad": {
     "title": "奖学金指南",
-    "href": "study-abroad"
+    "href": "/study-abroad"
   }
 }
