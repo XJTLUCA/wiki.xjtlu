@@ -27,9 +27,9 @@
     "title": "苏州生活",
     "href": "/suzhou"
   },
-  "livepool": {
+  "liverpool": {
     "title": "利物浦生活",
-    "href": "/livepool"
+    "href": "/liverpool"
   },
   "academic": {
     "title": "学术指南",
@@ -37,7 +37,7 @@
   },
   "surivial": {
     "title": "生存指南",
-    "href": "/surivial"
+    "href": "/survival"
   },
   "transfer": {
     "title": "转学指南",
