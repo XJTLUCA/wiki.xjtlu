@@ -2,13 +2,13 @@
   "email": {
     "title": "邮箱"
   },
+  "network": {
+    "title": "网络（WIFI和VPN）"
+  },
   "print": {
     "title": "打印机"
   },
-  "vpn": {
-    "title": "VPN"
-  },
-  "wifi": {
-    "title": "WIFI"
+  "study-room": {
+    "title": "自习室"
   }
 }
